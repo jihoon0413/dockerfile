@@ -1,4 +1,4 @@
-FROM scouterapm/scouter-server:latest
+FROM scouterapm/scouter-server
 
 ENV NET_HTTP_SERVER_ENABLED=true \
     NET_HTTP_API_ENABLED=true \
